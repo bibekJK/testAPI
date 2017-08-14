@@ -1,0 +1,5 @@
+//Documentation on pusblish workbook
+http://onlinehelp.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref.htm#Publish_Workbook
+
+//tableau server
+https://us-east-1.online.tableau.com
